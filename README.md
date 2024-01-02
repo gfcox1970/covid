@@ -14,6 +14,6 @@ Data will analysed at both the levels shown below
 
 ## Files included
 
-- 00_library_load.R - Loads functions used by other script files
-- 01_data_prep.R - Downloads data from UK government API and performs initial data cleaning steps
-- 02_theme_load.R - Creates theme used by `ggplot2` package when creating data visualisations in scripts
+- 00_library_load.R    - Loads functions used by other script files
+- 01_data_prep.R       - Downloads data from UK government API and performs initial data cleaning steps
+- 02_theme_load.R      - Creates theme used by `ggplot2` package when creating data visualisations in scripts
