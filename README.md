@@ -22,6 +22,8 @@ Data will analysed at both the levels shown below
 
 ### Data Analysis and Visualisations
 
+[03_initial_analysis.md](03_initial_analysis.md)
+
 - 03_initial_analyis.R - Creates the plots below
 
 ![Cases by Country](https://github.com/gfcox1970/covid/blob/main/03_01_plot.png)
